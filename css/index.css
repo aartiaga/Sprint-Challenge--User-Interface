@@ -74,7 +74,7 @@ p {
 .top-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
@@ -143,4 +143,7 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.middle-content .boxes {
+    background-color: teal
 }
